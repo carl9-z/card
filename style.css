@@ -1,0 +1,34 @@
+body{
+display: flex;
+justify-content: center;
+align-items: center;
+background-image: url(https://preview.redd.it/2bxotl7ba8v71.png?auto=webp&s=a6d5f7b7293eeabca96ca112dc5553db3b082bfb);
+background-size: cover;
+}
+
+.card {
+    background-color: aliceblue;
+width: 300px;
+padding: 25px;
+border: 2px solid #e705057e;
+border-radius: 9px;
+box-shadow: 0 4px 8px rgba(0,0,0, 0.7);
+text-align: center;
+}
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid black;
+    margin-bottom: 20px;
+    object-fit: cover;
+    background-image: center;
+    
+}
+h2 {
+    margin-bottom: 20px;
+}
+p{
+    margin-bottom: 20px;
+}
+abaut-me 
