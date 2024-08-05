@@ -1,0 +1,4 @@
+function soma(valor){
+    if()
+}
+
